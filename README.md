@@ -8,6 +8,6 @@
 
 #### H4 2.3 How Does Code Become Software
 
-###### H5 2.5 The Sprint
+##### H5 2.5 The Sprint
 
-####### H6 2.6 What's With All These Conferences Anyway?
+###### H6 2.6 What's With All These Conferences Anyway?
