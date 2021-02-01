@@ -25,7 +25,7 @@
 3.  "An Algorithm can be translated into a function, and that function can be called (run) when software is executed"(Tyrangiel)
 ###### H6 2.5 The Sprint
 1. wireframe mock-ups are pictures of how a website would look, made a program that creates sketched looking visuals
-####### H7 2.6 What's With All These Conferences Anyway?
+###### H7 2.6 What's With All These Conferences Anyway?
 1.  "People come together in the dozens or thousands and attend panels, ostensibly to learn; they attend presentations and brush up their skills, but there’s a secondary conference function, one of acculturation." (Tyrangiel)
 2.  there has been a lot of sexual harassment and sexist content in these conferences
 3.  "Conferences began to develop codes of conduct, rules and algorithms for people (men, really) to follow."(Tyrangiel)
