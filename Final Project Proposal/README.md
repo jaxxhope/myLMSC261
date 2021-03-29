@@ -1,4 +1,4 @@
-Final Project Proposal
+#Final Project Proposal
 For my final project I will be using the program Glowscript that we used in our most recent class to recreate this 3D Solar System Animation following this youtube video as a guide
 https://www.youtube.com/watch?v=p4dHfQuNUrE
 #Problem Solving
