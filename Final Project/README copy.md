@@ -48,3 +48,8 @@
 - The Result: https://www.glowscript.org/#/user/jhope2/folder/MyPrograms/program/3DSolarSystemtest3
 - This project allowed me to learn allowed about planets and translating information about how they work in a real life solar system into a digital solar System
 - I also learned more about inserting information like so as well as understanding code which was my goal for this entire project, I feel that throughout this semester I've used code given to me by Rachel and the code works, functions, and runs perfectly but I haven't quite understood why and how. Breaking down this project and building upon the basics of it allowed me to fully understand the use of the code which helps me overall understand how to be a more informed coder and furthers my understanding of how code works, I'm grateful for the opportunity to do so.
+# Additional Sources
+- https://www.wired.com/2015/03/glowscript-tutorial-8-gravity-orbits/
+- https://trinket.io/glowscript/98f6275a2d
+- https://github.com/owendix/glowscript.org-VPython-Code/blob/master/solarSystemMotion.py
+- https://gist.github.com/rbrigden/2e94c7ebecce571447dc
