@@ -1,7 +1,8 @@
 # Creating a Solar System in GlowScript
  # https://www.youtube.com/watch?v=p4dHfQuNUrE
 # Starting Out
--
+- <img width="805" alt="Screen Shot 2021-05-07 at 6 03 14 AM" src="https://user-images.githubusercontent.com/78001019/117450357-1cf32880-af0f-11eb-8159-f72400d353a5.png">
+
 - I started out with this particular youtube video listed above. The youtube video before a piece of code to get you started on this solar system creation journey. I did not realize that this video was essentially a challenge. It presented a piece of starter code to get one started on the project and then proceed with the process by figuring out further code to add more planets and even possibly make alterations to the code as well as the dimensions of the planets.
 
 # Understanding the Code
@@ -11,9 +12,11 @@
 - To understand the code behind my project I needed to understand how Gravity and Orbits work in GlowScript.
 - I followed and read through this article for guidance. https://www.wired.com/2015/03/glowscript-tutorial-8-gravity-orbits/
 - By Reading this article I discovered that If there are two objects with mass there is a gravitational force that pulls them together
-- graphic
+- <img width="544" alt="Screen Shot 2021-05-07 at 8 35 45 AM" src="https://user-images.githubusercontent.com/78001019/117450436-385e3380-af0f-11eb-9be7-5f29350f3b9e.png">
+
 - mass 1 pulls on mass 2 with the same force that 2 pulls on 1, because they are the same force, vector r is from mass 1 to mass to.
-- graphic
+- <img width="249" alt="Screen Shot 2021-05-07 at 8 36 04 AM" src="https://user-images.githubusercontent.com/78001019/117450483-46ac4f80-af0f-11eb-8cf7-45b4b795a7a5.png">
+
 - The Article also listed a formula for the gravitational force on the moon:
 - Fg=-G*Earth.m*moon.m*r/mag(r)**3
 - This formula also always viewers to see how the Earth and moon scale are the correct distance and makes it move, it keeps calculating the gravitational force of the moon. "r" is represented as the distance from the earth to the moon.
@@ -44,4 +47,4 @@
 - With the code I used which was from https://github.com/owendix/glowscript.org-VPython-Code/blob/master/solarSystemMotion.py all of the information I gathered was seen in this example
 - The Result: https://www.glowscript.org/#/user/jhope2/folder/MyPrograms/program/3DSolarSystemtest3
 - This project allowed me to learn allowed about planets and translating information about how they work in a real life solar system into a digital solar System
-- I also learned more about inserting information like so as well as understanding code which was my goal for this entire project, I feel that throughout this semester I've used code given to me by Rachel and the code works, functions, and runs perfectly but I haven't quite understood why and how. Breaking down this project and building upon the basics of it allowed me to fully understand the use of the code which helps me overall understand how to be a more informed coder and furthers my understanding of how code works, I'm grateful for the opportunity to do so. 
+- I also learned more about inserting information like so as well as understanding code which was my goal for this entire project, I feel that throughout this semester I've used code given to me by Rachel and the code works, functions, and runs perfectly but I haven't quite understood why and how. Breaking down this project and building upon the basics of it allowed me to fully understand the use of the code which helps me overall understand how to be a more informed coder and furthers my understanding of how code works, I'm grateful for the opportunity to do so.
